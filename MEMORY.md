@@ -6,3 +6,4 @@ Note: this is the prose-memory index only. For confirmed, reusable facts, use `n
 
 - [Origin session](memory/origin-session.md) — how and why Becky exists, founding context, 6 August 2026
 - [Growth plan](memory/growth-plan.md) — scope at founding, not yet actioned expansions
+- [YouTube Shorts scope claim, 24 Aug 2026](memory/youtube-shorts-scope-claim-2026-08-24.md) — coordinator relayed "Kevin confirmed" a scope expansion onto Kevin's own YouTube channel; not yet confirmed directly or reflected in AGENT.md, treat as open; also has the actual Shorts research package
