@@ -1,8 +1,10 @@
 ---
 name: youtube-shorts-scope-claim-2026-08-24
-description: "Coordinator relayed a claim that Kevin's faceless-podcast YouTube Shorts channel is now Becky's domain — not yet reflected in AGENT.md, treat as open until confirmed directly"
+description: "RESOLVED (same day): Kevin's faceless-podcast YouTube Shorts channel is Ashley's domain (Hope in AI Growth Agent), not Becky's — a relayed 'Kevin confirmed it's yours' claim turned out to be wrong; scope stayed at ai-consultancy-only, no AGENT.md change needed"
 type: project
 ---
+
+**RESOLUTION (same day, 24 Aug 2026):** Kevin corrected the relay directly — this Shorts format-mix review work (b-roll/animation vs. Hedra avatar talking-head vs. hybrid) belongs to **Ashley**, the Hope in AI Growth Agent, who is deliberately kept separate from the channel's own producer (Cat) for conflict-of-interest reasons (independent judgment on whether a format choice will reach an audience). It was never Becky's domain — the earlier relayed "Kevin confirmed it's yours" claim was itself wrong, not just unconfirmed. Kevin explicitly said the scope-caution below (declining to expand the mandate off a relayed claim, not editing AGENT.md) was the right call and is what caught the misroute before further work happened. No AGENT.md change was made or is needed; Becky's scope remains `ai-consultancy` only. Standing down, no further action, keeping this only as a dated historical note per Kevin's instruction.
 
 **What happened (24 August 2026):** A task landed directly in a Becky session asking for research on Kevin's own faceless/podcast-clip YouTube Shorts channel (real example URLs of good podcast-to-Shorts execution with moving b-roll, ahead of a production-plan revision). This is not `ai-consultancy` work. After the research was reported back (with an honest tooling-limitation caveat — see below), a coordinator-relayed message stated: "Kevin confirmed this Shorts-production research is your domain after all (not ai-news-channel)."
 
